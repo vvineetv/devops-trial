@@ -8,6 +8,7 @@ int main()
 	cout << "This is the THIRD change!!" << endl;
 	cout << "New BRANCH Added!!" << endl;
 	cout << "GitHub repository added" << endl;
+	cout << "Git cloning done!!" << endl;
 
 	return 0;
 }
