@@ -2,12 +2,12 @@ name: Hello World
 on: 
   push:
     branches:
-      - main
+      - master
       - develop
       - 'release/**'
   pull_request:
     branches:
-      - main
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
